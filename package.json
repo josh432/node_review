@@ -1,0 +1,30 @@
+{
+  "name": "node_review",
+  "version": "1.0.0",
+  "description": "node review",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh432/node_review.git"
+  },
+  "keywords": [
+    "Josh",
+    "Silverman"
+  ],
+  "author": "Josh Silverman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josh432/node_review/issues"
+  },
+  "homepage": "https://github.com/josh432/node_review#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
